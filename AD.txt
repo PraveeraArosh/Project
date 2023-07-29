@@ -1,0 +1,46 @@
+problem definition statement (problem of the current system- follow 5 W
+Who, What, Where, When, and Why)
+risks that can be appeared in the project
+(budget, schedule, cost, backup system)
+user requirement & system requirement
+Risk of coming while developing software
+methodology
+investigation technique (conclution)
+
+design document
+(current system flowchart and proposed system flowchart)
+design interfaces
+
+
+Activity 02
+
+Selecting a methodology - need justification for the scenario
+reason of the selecting methodology with evidences. 
+upper level tools and lower level tools (case tools) different stages 
+compare each case tools and select one tool with proper justification
+
+
+Activity 03 - 15 slides presentation
+
+3.1 problem definition statement
+business application
+	current system  - functonalities / features
+	proposed system - functionalities / features
+development strategy
+questionnaire for peer review
+google form feedback 
+
+3.2 support documentation - user manual
+software interfaces and description
+evidenecs for the selected tools and technologies.
+new features, payment methods, cloud hosting (include or not with describe)
+
+activity 04
+
+problem definition statement - critical review to how solve that problem
+how manage above risks. (costs, templates, free services)
+stren. & weak. of my application
+future developments and opportunities for this software. 
+
+
+
